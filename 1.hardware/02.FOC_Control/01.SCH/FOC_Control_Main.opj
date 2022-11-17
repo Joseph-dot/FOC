@@ -1,0 +1,95 @@
+(ExpressProject "FOC_Control_Main"
+  (ProjectVersion "19981106")
+  (SoftwareVersion "17.4-2019 S023 (3989754)  [11/2/2021]-[11/17/22]")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File "..\03.schlib\my_lib.olb"
+        (Type "Schematic Library")))
+    ("Allegro Netlist Directory" "allegro")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify)
+    (File ".\foc_control_main.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x"))
+  (Folder "Layout")
+  (Folder "Outputs"
+    (File ".\foc_control_main-placements.csv"
+      (Type "Report")))
+  (Folder "Referenced Projects")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs")
+  (PartMRUSelector
+    (NMOS
+      (FullPartName "NMOS.Normal")
+      (LibraryName
+         "C:\USERS\JOSEPHKEVIN\DESKTOP\FOC\1.HARDWARE\02.FOC\03.SCHLIB\MY_LIB.OLB")
+      (DeviceIndex "0"))
+    (BEEP
+      (FullPartName "BEEP.Normal")
+      (LibraryName
+         "C:\USERS\JOSEPHKEVIN\DESKTOP\FOC\1.HARDWARE\02.FOC\03.SCHLIB\MY_LIB.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-R
+      (LibraryName
+         "D:\CADENCE\CADENCE_SPB_17.4-2019\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0")))
+  (MPSSessionName "JosephKevin")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\foc_control_main.dsn")
+      (Path "Design Resources" ".\foc_control_main.dsn" "FOC_Control_Main")
+      (Path "Design Resources" ".\foc_control_main.dsn" "Design Cache")
+      (Path "Design Resources" "Library")
+      (Path "Design Resources" "Library"
+         "C:\USERS\JOSEPHKEVIN\DESKTOP\FOC\1.HARDWARE\02.FOC\03.schlib\my_lib.olb")
+      (Path "Outputs")
+      (Path "PSpice Resources")
+      (Select "Design Resources" ".\foc_control_main.dsn" "FOC_Control_Main"
+         "06 MCU"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 410 0 1001"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1823 28 1023")
+        (Scroll "-22 82")
+        (Zoom "106")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\JOSEPHKEVIN\DESKTOP\FOC\1.HARDWARE\02.FOC\01.SCH\FOC_CONTROL_MAIN.DSN")
+      (Schematic "FOC_Control_Main")
+      (Page "06 MCU"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1823 28 1023")
+        (Scroll "-228 -13")
+        (Zoom "81")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\JOSEPHKEVIN\DESKTOP\FOC\1.HARDWARE\02.FOC\01.SCH\FOC_CONTROL_MAIN.DSN")
+      (Schematic "FOC_Control_Main")
+      (Page "07 Half-bridge_driver"))
+    (Doc
+      (Type "COrPrmBrowserDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 5 1823 28 1023"))
+      (Path
+         "C:\USERS\JOSEPHKEVIN\DESKTOP\FOC\1.HARDWARE\02.FOC\03.SCHLIB\MY_LIB.OLB")
+      (Package "NMOS")
+      (PartType "1"))))
