@@ -13,7 +13,23 @@
     (File ".\foc_control_main.dsn"
       (Type "Schematic Design"))
     (BuildFileAddedOrDeleted "x")
-    (CompileFileAddedOrDeleted "x"))
+    (CompileFileAddedOrDeleted "x")
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "1")
+    (ANNOTATE_Action "0")
+    (Annotate_Page_Order "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}{POWER_GROUP}")
+    (ANNOTATE_IncludeNonPrimitive "FALSE")
+    (ANNOTATE_PreserveDesignator "FALSE")
+    (ANNOTATE_PreserveUserEdits "FALSE")
+    (ANNOTATE_Refdes_Control_Required "TRUE")
+    (Update_Instace_for_External_Design "FALSE")
+    (Annotate_type "Default")
+    (width_pages "100")
+    (width_start "80")
+    (width_End "80"))
   (Folder "Layout")
   (Folder "Outputs"
     (File ".\foc_control_main-placements.csv"
@@ -29,6 +45,11 @@
       (Sort User)))
   (Folder "Logs")
   (PartMRUSelector
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName
+         "C:\USERS\JOSEPHKEVIN\DESKTOP\FOC\1.HARDWARE\02.FOC_CONTROL\03.SCHLIB\MY_LIB.OLB")
+      (DeviceIndex "0"))
     (NMOS
       (FullPartName "NMOS.Normal")
       (LibraryName
@@ -51,45 +72,56 @@
       (Path "Design Resources" ".\foc_control_main.dsn" "FOC_Control_Main")
       (Path "Design Resources" ".\foc_control_main.dsn" "Design Cache")
       (Path "Design Resources" "Library")
-      (Path "Design Resources" "Library"
-         "C:\USERS\JOSEPHKEVIN\DESKTOP\FOC\1.HARDWARE\02.FOC\03.schlib\my_lib.olb")
       (Path "Outputs")
       (Path "PSpice Resources")
-      (Select "Design Resources" ".\foc_control_main.dsn" "FOC_Control_Main"
-         "06 MCU"))
+      (Select "Design Resources" ".\foc_control_main.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 410 0 1001"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 366 0 1001"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1823 28 1023")
-        (Scroll "-22 82")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1867 28 1023")
+        (Scroll "-44 240")
         (Zoom "106")
         (Occurrence "/"))
       (Path
-         "C:\USERS\JOSEPHKEVIN\DESKTOP\FOC\1.HARDWARE\02.FOC\01.SCH\FOC_CONTROL_MAIN.DSN")
+         "C:\USERS\JOSEPHKEVIN\DESKTOP\FOC\1.HARDWARE\02.FOC_CONTROL\01.SCH\FOC_CONTROL_MAIN.DSN")
       (Schematic "FOC_Control_Main")
       (Page "06 MCU"))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 1823 28 1023")
-        (Scroll "-228 -13")
-        (Zoom "81")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1867 28 1023")
+        (Scroll "-93 0")
+        (Zoom "100")
         (Occurrence "/"))
       (Path
-         "C:\USERS\JOSEPHKEVIN\DESKTOP\FOC\1.HARDWARE\02.FOC\01.SCH\FOC_CONTROL_MAIN.DSN")
+         "C:\USERS\JOSEPHKEVIN\DESKTOP\FOC\1.HARDWARE\02.FOC_CONTROL\01.SCH\FOC_CONTROL_MAIN.DSN")
+      (Schematic "FOC_Control_Main")
+      (Page "05 Power"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1867 28 1023")
+        (Scroll "-93 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\JOSEPHKEVIN\DESKTOP\FOC\1.HARDWARE\02.FOC_CONTROL\01.SCH\FOC_CONTROL_MAIN.DSN")
       (Schematic "FOC_Control_Main")
       (Page "07 Half-bridge_driver"))
     (Doc
-      (Type "COrPrmBrowserDoc")
+      (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 5 1823 28 1023"))
+        (Placement "44 0 1 -1 -1 -1 -1 5 1867 28 1023")
+        (Scroll "-88 0")
+        (Zoom "100")
+        (Occurrence "/"))
       (Path
-         "C:\USERS\JOSEPHKEVIN\DESKTOP\FOC\1.HARDWARE\02.FOC\03.SCHLIB\MY_LIB.OLB")
-      (Package "NMOS")
-      (PartType "1"))))
+         "C:\USERS\JOSEPHKEVIN\DESKTOP\FOC\1.HARDWARE\02.FOC_CONTROL\01.SCH\FOC_CONTROL_MAIN.DSN")
+      (Schematic "FOC_Control_Main")
+      (Page "01 REVISION HISTORY"))))
