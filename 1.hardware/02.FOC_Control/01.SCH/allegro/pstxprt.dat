@@ -1,0 +1,1440 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.4.0 d001Nov-29-2022 at 21:19:06 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='FOC_CONTROL_MAIN';
+ POST_TIME='Nov  2 2021 14:32:04';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ B6001 'BEEP_SMD5020_BEEP':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1067669@MY_LIB.BEEP.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1067669@my_lib.\beep.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page6_ins1067669@my_lib.\beep.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5001 'C_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1074529@MY_LIB.C.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1074529@my_lib.\c.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page5_ins1074529@my_lib.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5002 'C_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1078589@MY_LIB.C.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1078589@my_lib.\c.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page5_ins1078589@my_lib.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5003 'C_C0805_22UF':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1077667@MY_LIB.C.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1077667@my_lib.\c.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page5_ins1077667@my_lib.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5004 'C_C0805_4.7UF':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1074635@MY_LIB.C.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1074635@my_lib.\c.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page5_ins1074635@my_lib.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5005 'C_C0603_10UF':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1074771@MY_LIB.C.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1074771@my_lib.\c.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page5_ins1074771@my_lib.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5006 'C_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1074864@MY_LIB.C.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1074864@my_lib.\c.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page5_ins1074864@my_lib.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5007 'C_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1099633@MY_LIB.C.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1099633@my_lib.\c.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page5_ins1099633@my_lib.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5008 'C_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1077978@MY_LIB.C.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1077978@my_lib.\c.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page5_ins1077978@my_lib.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5009 'C_C0805_22UF':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1077629@MY_LIB.C.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1077629@my_lib.\c.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page5_ins1077629@my_lib.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5010 'C_C0805_22UF':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1078674@MY_LIB.C.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1078674@my_lib.\c.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page5_ins1078674@my_lib.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5011 'C_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1078710@MY_LIB.C.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1078710@my_lib.\c.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page5_ins1078710@my_lib.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5012 'C_C0402_33PF':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1075646@MY_LIB.C.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1075646@my_lib.\c.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page5_ins1075646@my_lib.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5013 'C_C0402_33PF':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1100359@MY_LIB.C.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1100359@my_lib.\c.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page5_ins1100359@my_lib.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5014 'C_C0402_1UF':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1080675@MY_LIB.C.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1080675@my_lib.\c.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page5_ins1080675@my_lib.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5015 'C_C0402_1UF':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1082322@MY_LIB.C.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1082322@my_lib.\c.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page5_ins1082322@my_lib.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5016 'C_C1206_10UF':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1098565@MY_LIB.C.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1098565@my_lib.\c.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page5_ins1098565@my_lib.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5017 'C_C1206_10UF':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1098587@MY_LIB.C.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1098587@my_lib.\c.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page5_ins1098587@my_lib.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5018 'C_C1206_10UF':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1098609@MY_LIB.C.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1098609@my_lib.\c.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page5_ins1098609@my_lib.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5019 'C_C1206_10UF':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1098631@MY_LIB.C.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1098631@my_lib.\c.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page5_ins1098631@my_lib.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5020 'C_C1206_10UF':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1098653@MY_LIB.C.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1098653@my_lib.\c.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page5_ins1098653@my_lib.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5021 'C_C1206_10UF':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1098675@MY_LIB.C.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1098675@my_lib.\c.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page5_ins1098675@my_lib.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5022 'C_C1206_10UF':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1113552@MY_LIB.C.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1113552@my_lib.\c.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page5_ins1113552@my_lib.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5023 'C_C1206_10UF':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1113574@MY_LIB.C.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1113574@my_lib.\c.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page5_ins1113574@my_lib.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5024 'C_C0402_0.01UF':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1082351@MY_LIB.C.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1082351@my_lib.\c.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page5_ins1082351@my_lib.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5025 'C_C0603_10UF':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1117700@MY_LIB.C.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1117700@my_lib.\c.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page5_ins1117700@my_lib.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5026 'C_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1117722@MY_LIB.C.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1117722@my_lib.\c.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page5_ins1117722@my_lib.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5027 'C_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1116239@MY_LIB.C.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1116239@my_lib.\c.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page5_ins1116239@my_lib.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5028 'C_C0603_10UF':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1117767@MY_LIB.C.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1117767@my_lib.\c.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page5_ins1117767@my_lib.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5029 'C_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1117833@MY_LIB.C.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1117833@my_lib.\c.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page5_ins1117833@my_lib.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6001 'C_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1089097@MY_LIB.C.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1089097@my_lib.\c.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page6_ins1089097@my_lib.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6002 'C_C0402_4.7UF':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1098060@MY_LIB.C.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1098060@my_lib.\c.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page6_ins1098060@my_lib.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6003 'C_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1059732@MY_LIB.C.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1059732@my_lib.\c.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page6_ins1059732@my_lib.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6004 'C_C0402_12.5PF':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1056430@MY_LIB.C.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1056430@my_lib.\c.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page6_ins1056430@my_lib.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6005 'C_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1058483@MY_LIB.C.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1058483@my_lib.\c.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page6_ins1058483@my_lib.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6006 'C_C0402_12.5PF':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1056468@MY_LIB.C.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1056468@my_lib.\c.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page6_ins1056468@my_lib.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6007 'C_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1059448@MY_LIB.C.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1059448@my_lib.\c.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page6_ins1059448@my_lib.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6008 'C_C0402_12.5PF':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1057957@MY_LIB.C.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1057957@my_lib.\c.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page6_ins1057957@my_lib.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6009 'C_C0402_12.5PF':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1057993@MY_LIB.C.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1057993@my_lib.\c.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page6_ins1057993@my_lib.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6010 'C_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1059045@MY_LIB.C.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1059045@my_lib.\c.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page6_ins1059045@my_lib.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6011 'C_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1060496@MY_LIB.C.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1060496@my_lib.\c.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page6_ins1060496@my_lib.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6012 'C_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1061825@MY_LIB.C.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1061825@my_lib.\c.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page6_ins1061825@my_lib.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6013 'C_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1095818@MY_LIB.C.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1095818@my_lib.\c.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page6_ins1095818@my_lib.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6014 'C_C0402_0.1UF':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1095991@MY_LIB.C.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1095991@my_lib.\c.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page6_ins1095991@my_lib.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7001 'C_C0402_1UF':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1050455@MY_LIB.C.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1050455@my_lib.\c.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page7_ins1050455@my_lib.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7002 'C_C0402_1UF':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1051688@MY_LIB.C.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1051688@my_lib.\c.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page7_ins1051688@my_lib.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7003 'C_C0402_1UF':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1049655@MY_LIB.C.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1049655@my_lib.\c.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page7_ins1049655@my_lib.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7004 'C_C0402_1UF':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1052275@MY_LIB.C.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1052275@my_lib.\c.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page7_ins1052275@my_lib.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D5001 'DIODE_SOD123W_PMEG4030ER':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1119171@MY_LIB.DIODE.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1119171@my_lib.\diode.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page5_ins1119171@my_lib.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D5002 'DIODE_SOD123_B5819W':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1076719@MY_LIB.DIODE.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1076719@my_lib.\diode.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page5_ins1076719@my_lib.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D6001 'LED_LED0402_LED':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1060688@MY_LIB.LED.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1060688@my_lib.\led.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page6_ins1060688@my_lib.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D6002 'DIODE_SOD123W_PMEG4030ER':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1119384@MY_LIB.DIODE.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1119384@my_lib.\diode.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page6_ins1119384@my_lib.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D7001 'DIODE_SOD123_1N4148':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1049923@MY_LIB.DIODE.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1049923@my_lib.\diode.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page7_ins1049923@my_lib.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D7002 'DIODE_SOD123_FR107':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1054275@MY_LIB.DIODE.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1054275@my_lib.\diode.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page7_ins1054275@my_lib.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D7003 'DIODE_SOD123_1N4148':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1050019@MY_LIB.DIODE.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1050019@my_lib.\diode.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page7_ins1050019@my_lib.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D7004 'DIODE_SOD123_1N4148':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1051640@MY_LIB.DIODE.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1051640@my_lib.\diode.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page7_ins1051640@my_lib.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D7005 'DIODE_SOD123_FR107':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1054323@MY_LIB.DIODE.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1054323@my_lib.\diode.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page7_ins1054323@my_lib.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D7006 'DIODE_SOD123_1N4148':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1051730@MY_LIB.DIODE.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1051730@my_lib.\diode.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page7_ins1051730@my_lib.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D7007 'DIODE_SOD123_1N4148':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1052239@MY_LIB.DIODE.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1052239@my_lib.\diode.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page7_ins1052239@my_lib.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D7008 'DIODE_SOD123_FR107':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1054356@MY_LIB.DIODE.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1054356@my_lib.\diode.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page7_ins1054356@my_lib.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D7009 'DIODE_SOD123_1N4148':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1052295@MY_LIB.DIODE.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1052295@my_lib.\diode.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page7_ins1052295@my_lib.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J6001 'CON1.25-6P_GH1R25-WS-6P_CON1.25-6P':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1086108@MY_LIB.CON1.25-6P.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1086108@my_lib.\con1.25-6p.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page6_ins1086108@my_lib.\con1.25-6p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J6002 'CON1.25-4P_GH1R25-WS-4P_CON1.25-4P':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1086061@MY_LIB.CON1.25-4P.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1086061@my_lib.\con1.25-4p.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page6_ins1086061@my_lib.\con1.25-4p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J6003 'CON1.25-3P_GH1R25-WS-3P_CON1.25-3P':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1092599@MY_LIB.CON1.25-3P.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1092599@my_lib.\con1.25-3p.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page6_ins1092599@my_lib.\con1.25-3p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J6004 'CON1.25-3P_GH1R25-WS-3P_CON1.25-3P':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1093660@MY_LIB.CON1.25-3P.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1093660@my_lib.\con1.25-3p.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page6_ins1093660@my_lib.\con1.25-3p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J6005 'CON1.25-2P_GH1R250-WS-2P_CON1.25-2P':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1097168@MY_LIB.CON1.25-2P.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1097168@my_lib.\con1.25-2p.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page6_ins1097168@my_lib.\con1.25-2p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L5001 'L_DFE201610E_4.7UH':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1074735@MY_LIB.L.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1074735@my_lib.\l.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page5_ins1074735@my_lib.\l.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L5002 'L_DFE201610E_4.7UH':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1077651@MY_LIB.L.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1077651@my_lib.\l.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page5_ins1077651@my_lib.\l.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ PAD5001 'PAD_PAD_3X4_PAD':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1113029@MY_LIB.PAD.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1113029@my_lib.\pad.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page5_ins1113029@my_lib.\pad.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ PAD5002 'PAD_PAD_3X4_PAD':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1113043@MY_LIB.PAD.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1113043@my_lib.\pad.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page5_ins1113043@my_lib.\pad.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ PAD7001 'PAD_PAD_3X4_PAD':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1112930@MY_LIB.PAD.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1112930@my_lib.\pad.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page7_ins1112930@my_lib.\pad.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ PAD7002 'PAD_PAD_3X4_PAD':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1112944@MY_LIB.PAD.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1112944@my_lib.\pad.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page7_ins1112944@my_lib.\pad.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ PAD7003 'PAD_PAD_3X4_PAD':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1112956@MY_LIB.PAD.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1112956@my_lib.\pad.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page7_ins1112956@my_lib.\pad.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q6001 'NMOS_SOT-23_AO3400':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1069378@MY_LIB.NMOS.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1069378@my_lib.\nmos.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page6_ins1069378@my_lib.\nmos.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q7001 'NMOS_PQFN5X6_IRFH7440TRPBF':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1048947@MY_LIB.NMOS.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1048947@my_lib.\nmos.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page7_ins1048947@my_lib.\nmos.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q7002 'NMOS_PQFN5X6_IRFH7440TRPBF':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1049110@MY_LIB.NMOS.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1049110@my_lib.\nmos.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page7_ins1049110@my_lib.\nmos.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q7003 'NMOS_PQFN5X6_IRFH7440TRPBF':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1049152@MY_LIB.NMOS.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1049152@my_lib.\nmos.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page7_ins1049152@my_lib.\nmos.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q7004 'NMOS_PQFN5X6_IRFH7440TRPBF':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1049194@MY_LIB.NMOS.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1049194@my_lib.\nmos.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page7_ins1049194@my_lib.\nmos.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q7005 'NMOS_PQFN5X6_IRFH7440TRPBF':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1049236@MY_LIB.NMOS.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1049236@my_lib.\nmos.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page7_ins1049236@my_lib.\nmos.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q7006 'NMOS_PQFN5X6_IRFH7440TRPBF':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1049278@MY_LIB.NMOS.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1049278@my_lib.\nmos.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page7_ins1049278@my_lib.\nmos.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5001 'R_R0402_100K':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1079218@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1079218@my_lib.\r.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page5_ins1079218@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5002 'R_R0402_40.2K':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1077689@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1077689@my_lib.\r.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page5_ins1077689@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5003 'R_R0402_20K':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1075121@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1075121@my_lib.\r.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page5_ins1075121@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5004 'R_R0402_8.87K':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1075524@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1075524@my_lib.\r.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page5_ins1075524@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5005 'R_R0402_124K':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1076574@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1076574@my_lib.\r.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page5_ins1076574@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5006 'R_R0402_4.02K':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1075977@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1075977@my_lib.\r.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page5_ins1075977@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5007 'R_R0402_5.49K':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1078764@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1078764@my_lib.\r.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page5_ins1078764@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6001 'R_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1088565@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1088565@my_lib.\r.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page6_ins1088565@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6002 'R_R0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1090402@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1090402@my_lib.\r.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page6_ins1090402@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6003 'R_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1089390@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1089390@my_lib.\r.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page6_ins1089390@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6004 'R_R0402_4.7K':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1090428@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1090428@my_lib.\r.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page6_ins1090428@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6005 'R_R0402_1K':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1069580@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1069580@my_lib.\r.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page6_ins1069580@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6006 'R_R0402_100K':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1069616@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1069616@my_lib.\r.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page6_ins1069616@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6007 'R_R0402_300R':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1071836@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1071836@my_lib.\r.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page6_ins1071836@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6008 'R_R0402_1K':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1061389@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1061389@my_lib.\r.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page6_ins1061389@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6009 'R_R0402_300R':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1071949@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1071949@my_lib.\r.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page6_ins1071949@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6010 'R_R0402_300R':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1071985@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1071985@my_lib.\r.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page6_ins1071985@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6011 'R_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1061607@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1061607@my_lib.\r.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page6_ins1061607@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6012 'R_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1094885@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1094885@my_lib.\r.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page6_ins1094885@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6013 'R_R0402_60R':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1096645@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1096645@my_lib.\r.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page6_ins1096645@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6014 'R_R0402_1.5K':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1110510@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1110510@my_lib.\r.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page6_ins1110510@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6015 'R_R0402_5.1K':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1109308@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1109308@my_lib.\r.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page6_ins1109308@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6016 'R_R0402_5.1K':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1109352@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1109352@my_lib.\r.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page6_ins1109352@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7001 'R_R0402_10R':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1049877@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1049877@my_lib.\r.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page7_ins1049877@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7002 'R_R0402_10R':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1050035@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1050035@my_lib.\r.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page7_ins1050035@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7003 'R_R0402_100K':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1062518@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1062518@my_lib.\r.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page7_ins1062518@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7004 'R_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1062482@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1062482@my_lib.\r.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page7_ins1062482@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7005 'R_R2512_10MR':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1050909@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1050909@my_lib.\r.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page7_ins1050909@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7006 'R_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1062690@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1062690@my_lib.\r.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page7_ins1062690@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7007 'R_R0402_100K':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1062741@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1062741@my_lib.\r.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page7_ins1062741@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7008 'R_R0402_10R':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1051656@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1051656@my_lib.\r.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page7_ins1051656@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7009 'R_R0402_10R':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1051746@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1051746@my_lib.\r.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page7_ins1051746@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7010 'R_R0402_100K':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1063096@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1063096@my_lib.\r.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page7_ins1063096@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7011 'R_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1063118@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1063118@my_lib.\r.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page7_ins1063118@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7012 'R_R2512_10MR':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1051900@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1051900@my_lib.\r.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page7_ins1051900@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7013 'R_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1063162@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1063162@my_lib.\r.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page7_ins1063162@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7014 'R_R0402_100K':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1063184@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1063184@my_lib.\r.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page7_ins1063184@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7015 'R_R0402_10R':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1052255@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1052255@my_lib.\r.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page7_ins1052255@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7016 'R_R0402_10R':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1052311@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1052311@my_lib.\r.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page7_ins1052311@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7017 'R_R0402_100K':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1063432@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1063432@my_lib.\r.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page7_ins1063432@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7018 'R_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1063454@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1063454@my_lib.\r.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page7_ins1063454@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7019 'R_R2512_10MR':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1052530@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1052530@my_lib.\r.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page7_ins1052530@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7020 'R_R0402_10K':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1063498@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1063498@my_lib.\r.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page7_ins1063498@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7021 'R_R0402_100K':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1063520@MY_LIB.R.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1063520@my_lib.\r.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page7_ins1063520@my_lib.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW6001 'KEY_3X4X2_2PBUTTON_NRST':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1061577@MY_LIB.KEY.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1061577@my_lib.\key.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page6_ins1061577@my_lib.\key.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP7001 'TP_TEST_SMD1R2_TP':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1073077@MY_LIB.TP.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1073077@my_lib.\tp.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page7_ins1073077@my_lib.\tp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP7002 'TP_TEST_SMD1R2_TP':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1073975@MY_LIB.TP.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1073975@my_lib.\tp.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page7_ins1073975@my_lib.\tp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP7003 'TP_TEST_SMD1R2_TP':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1073997@MY_LIB.TP.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1073997@my_lib.\tp.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page7_ins1073997@my_lib.\tp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP7004 'TP_TEST_SMD1R2_TP':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1074019@MY_LIB.TP.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1074019@my_lib.\tp.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page7_ins1074019@my_lib.\tp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP7005 'TP_TEST_SMD1R2_TP':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1074041@MY_LIB.TP.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1074041@my_lib.\tp.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page7_ins1074041@my_lib.\tp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP7006 'TP_TEST_SMD1R2_TP':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1074063@MY_LIB.TP.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1074063@my_lib.\tp.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page7_ins1074063@my_lib.\tp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TYPE_C6001 'TYPEC_16P_TYPEC-16P_TYPEC_16P':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1106277@MY_LIB.TYPEC_16P.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1106277@my_lib.\typec_16p.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page6_ins1106277@my_lib.\typec_16p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U5001 'MP2451_SOT23-6_MP2451':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1074490@MY_LIB.MP2451.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1074490@my_lib.\mp2451.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page5_ins1074490@my_lib.\mp2451.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U5002 'MP2225_TSOT23-8_MP2225':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1077545@MY_LIB.MP2225.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1077545@my_lib.\mp2225.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page5_ins1077545@my_lib.\mp2225.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U5003 'SGM2028_SOT23-5_SGM2028-3.3':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1080113@MY_LIB.SGM2028.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1080113@my_lib.\sgm2028.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page5_ins1080113@my_lib.\sgm2028.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U5004 'REF20XX_SOT23-5_REF2033AIDDCT':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1114282@MY_LIB.REF20XX.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1114282@my_lib.\ref20xx.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page5_ins1114282@my_lib.\ref20xx.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U6001 'CAT24CXX_TSOT23-5_CAT24C02':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1089063@MY_LIB.CAT24CXX.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1089063@my_lib.\cat24cxx.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page6_ins1089063@my_lib.\cat24cxx.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U6002 'STM32G431CBT6_LQFP48_7X7_STM32G431CBT6':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1085736@MY_LIB.STM32G431CBT6.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1085736@my_lib.\stm32g431cbt6.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page6_ins1085736@my_lib.\stm32g431cbt6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U6003 'SIT1051TK3_HVSON-8_SIT1051TK3':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1094487@MY_LIB.SIT1051TK3.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1094487@my_lib.\sit1051tk3.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page6_ins1094487@my_lib.\sit1051tk3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U6004 'ICMEF112P900MFR_ESD6P-1R27X1_ICMEF112P900MFR':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1110767@MY_LIB.ICMEF112P900MFR.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1110767@my_lib.\icmef112p900mfr.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page6_ins1110767@my_lib.\icmef112p900mfr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U7001 'EG2133_TSSOP20_EG2133':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1048382@MY_LIB.EG2133.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1048382@my_lib.\eg2133.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page7_ins1048382@my_lib.\eg2133.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y6001 'XTAL-2_SMD1610-2P_32.768KHZ':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1055804@MY_LIB.XTAL-2.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1055804@my_lib.\xtal-2.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page6_ins1055804@my_lib.\xtal-2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y6002 'XTAL-4_SMD2016-4P_24MHZ':;
+
+SECTION_NUMBER 1
+ '@FOC_CONTROL_MAIN.FOC_CONTROL_MAIN(SCH_1):INS1057770@MY_LIB.XTAL-4.NORMAL(CHIPS)':
+ C_PATH='@foc_control_main.foc_control_main(sch_1):ins1057770@my_lib.\xtal-4.normal\(chips)',
+ P_PATH='@foc_control_main.foc_control_main(sch_1):page6_ins1057770@my_lib.\xtal-4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.
